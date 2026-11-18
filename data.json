@@ -1,0 +1,6 @@
+[
+  { "id": "1", "name": "Kopi Susu", "price": 18000, "category": "Minuman" },
+  { "id": "2", "name": "Es Teh Manis", "price": 8000, "category": "Minuman" },
+  { "id": "3", "name": "Nasi Goreng", "price": 25000, "category": "Makanan" },
+  { "id": "4", "name": "Kentang Goreng", "price": 15000, "category": "Snack" }
+]
